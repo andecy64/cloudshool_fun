@@ -17,7 +17,7 @@ setup(
         'Programming Language :: Python :: 3.7',
     ],
     description="Fun with devops tools",
-    install_requires=['mysql', 'munch'],
+    install_requires=['mysql', 'munch', 'pillow'],
     include_package_data=True,
     keywords='cloudschool_fun',
     name='cloudschool_fun',
